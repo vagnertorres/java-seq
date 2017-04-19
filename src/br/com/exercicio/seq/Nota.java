@@ -26,5 +26,4 @@ public class Nota {
 		
 		System.out.println("A média é: " + media);
 	}
-
 }

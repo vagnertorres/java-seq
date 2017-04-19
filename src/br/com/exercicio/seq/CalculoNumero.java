@@ -31,5 +31,4 @@ public class CalculoNumero {
 		
 		System.out.println("o terceiro elevado ao cubo: " + aoCubo);
 	}
-
 }

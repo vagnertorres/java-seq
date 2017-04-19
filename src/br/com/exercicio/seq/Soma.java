@@ -20,5 +20,4 @@ public class Soma {
 		
 		System.out.println("a soma dos números é: " + soma);	
 	}
-
 }

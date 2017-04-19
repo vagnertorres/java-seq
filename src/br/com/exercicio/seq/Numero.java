@@ -15,5 +15,4 @@ public class Numero {
 		
 		System.out.println("o número digitado é: " + numero);
 	}
-
 }

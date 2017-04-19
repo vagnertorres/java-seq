@@ -20,5 +20,4 @@ public class Salario {
 		
 		System.out.println("Seu salário é: " + valorTotal);
 	}
-
 }

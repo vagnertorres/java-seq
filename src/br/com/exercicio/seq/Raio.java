@@ -17,5 +17,4 @@ public class Raio {
 		
 		System.out.println("Area do circulo é: " + area);
 	}
-
 }

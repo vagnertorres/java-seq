@@ -17,5 +17,4 @@ public class Quadrado {
 		
 		System.out.println("o valor da área do quadrado é: " + area);
 	}
-
 }

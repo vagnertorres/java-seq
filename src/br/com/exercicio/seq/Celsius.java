@@ -17,5 +17,4 @@ public class Celsius {
 		
 		System.out.println("o valor convetido para farenheit é: " + farenheit);
 	}
-
 }

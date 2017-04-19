@@ -17,5 +17,4 @@ public class Farenheit {
 		
 		System.out.println("o valor convertido para graus celsius é: " + celsius);
 	}
-
 }
