@@ -1,1 +1,1 @@
-# algoritmos de estruturas de sequência feito em java #
+# Algoritmos de estruturas de sequência feito em java #

@@ -30,9 +30,6 @@ public class CalculoNumero {
 		double aoCubo = Math.pow(numeroTres, 3);
 		
 		System.out.println("o terceiro elevado ao cubo: " + aoCubo);
-		
-		
-
 	}
 
 }

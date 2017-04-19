@@ -16,7 +16,6 @@ public class Quadrado {
 		double area = Math.pow(lado, 2);
 		
 		System.out.println("o valor da área do quadrado é: " + area);
-
 	}
 
 }

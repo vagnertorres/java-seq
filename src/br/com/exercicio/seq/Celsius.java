@@ -16,7 +16,6 @@ public class Celsius {
 		double farenheit = ((celsius * 1.8) + 32);
 		
 		System.out.println("o valor convetido para farenheit é: " + farenheit);
-
 	}
 
 }

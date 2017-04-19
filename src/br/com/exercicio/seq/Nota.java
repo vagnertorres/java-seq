@@ -25,7 +25,6 @@ public class Nota {
 		double media = ((notaUm + notaDois + notaTres + notaQuatro) / 4);
 		
 		System.out.println("A média é: " + media);
-
 	}
 
 }

@@ -16,7 +16,6 @@ public class Farenheit {
 		double celsius = (5 * (farenheit - 32) / 9);
 		
 		System.out.println("o valor convertido para graus celsius é: " + celsius);
-
 	}
 
 }

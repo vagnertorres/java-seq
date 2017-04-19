@@ -18,8 +18,7 @@ public class Soma {
 		
 		scanner.close();
 		
-		System.out.println("a soma dos números é: " + soma);
-		
+		System.out.println("a soma dos números é: " + soma);	
 	}
 
 }

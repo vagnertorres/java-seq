@@ -14,7 +14,6 @@ public class Numero {
 		scanner.close();
 		
 		System.out.println("o número digitado é: " + numero);
-
 	}
 
 }
