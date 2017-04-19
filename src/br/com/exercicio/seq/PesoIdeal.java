@@ -15,5 +15,4 @@ public class PesoIdeal {
 
 		System.out.println("o peso ideal para a altura informada é: " + pesoIdeal);
 	}
-
 }
