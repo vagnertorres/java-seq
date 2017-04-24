@@ -14,7 +14,7 @@ public class PesoPeixe {
 		if (peso > 50) {
 
 			double excesso = peso - 50;
-			double multa = excesso * 4;
+			double multa = excesso * 5;
 
 			System.out.println("excesso: " + excesso);
 			System.out.println("multa: " + multa);
