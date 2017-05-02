@@ -18,7 +18,7 @@ public class PesoPeixe {
 
 			System.out.println("excesso: " + excesso);
 			System.out.println("multa: " + multa);
-
+			
 		} else {
 
 			System.out.println("você está dentro do regulamento");

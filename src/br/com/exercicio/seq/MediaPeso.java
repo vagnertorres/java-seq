@@ -13,6 +13,8 @@ public class MediaPeso {
 
 		System.out.println("Digite seu sexo");
 		String sexo = scanner.next();
+		
+		scanner.close();
 
 		if (sexo.equalsIgnoreCase("homem")) {
 

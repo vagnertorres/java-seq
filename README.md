@@ -1,1 +1,1 @@
-# Algoritmos de estrutura de sequência feito em java #
+# :coffee: Algoritmos de estrutura de sequência feito em java #

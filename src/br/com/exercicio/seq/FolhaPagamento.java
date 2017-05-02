@@ -13,6 +13,8 @@ public class FolhaPagamento {
 
 		System.out.println("Digite quantas horas você trabalhou");
 		double hora = scanner.nextDouble();
+		
+		scanner.close();
 
 		double salarioBruto = valorHora * hora;
 		double impostoRenda = ((salarioBruto * 11) / 100);
